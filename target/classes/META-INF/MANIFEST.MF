@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: karinderyapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jhoey
+Implementation-Vendor-Id: com.karinderyapp
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/karinderyapp
+Created-By: Maven Integration for Eclipse
+
